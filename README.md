@@ -88,7 +88,7 @@ Implemented a **star schema**:
 
 ## 📸 Dashboard Preview
 
-(Add your screenshot here)
+![Dashboard](Dashboard.png)
 
 ---
 
